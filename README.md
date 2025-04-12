@@ -1,4 +1,13 @@
 # Superstore sales Analysis
+## Group member
+Ahmed Yousef
+Eslam Ragab 
+Ahmed Abd Elsamad
+Iman Farouk
+Ahmed Shahin 
+Mohamed Hany 
+Heba Badawy
+
 ### PROJECT OVERVIEW : 
 The dataset comprises transaction-level data from a retail store, with key fields including:
 Order Details: Order ID, Order_Date, Ship_Date, Ship_Mode
